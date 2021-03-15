@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568763197682",
+    "project_id": "fir-messaging-25640",
+    "storage_bucket": "fir-messaging-25640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568763197682:android:300015f3f1e19eb262086b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_animations_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568763197682-1csa8r4o3d677qi1ft2gunk73472c3vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATbQJGy0hW7O3_IzboQjncSPjdvoYM6OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568763197682-1csa8r4o3d677qi1ft2gunk73472c3vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
